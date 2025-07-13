@@ -114,3 +114,120 @@ Concevoir un objet physique unique, capable de **changer de forme** en fonction 
   - `Morph1`, `MorphFlex`, `MorphSphere`, `MorphNest`, etc.
 
 ---
+
+# 🌀 Morph0 — Modular Metamorphic Object
+
+**Author:** Fabien Buisson  
+**Status:** Concept in development  
+**Type:** Smart physical prototype (low/high-tech hybrid)
+
+---
+
+## 🎯 Goal
+
+Design a single physical object able to **change shape** depending on the need
+(comfort, tool, support, toy…). It combines :
+
+- 🦾 **Semi-rigid articulated rods**  
+- 💨 **Shape-memory (or tension-regulated) air cushions**  
+- 📲 A **Bluetooth interface + mobile app** to program transformations  
+- 🔁 Several **pre-defined configuration modes**
+
+---
+
+## 🧩 Core Structure
+
+- **Main modules**  
+  - **Rods:** act as bones / edges  
+  - **Air cushions:** provide form, flexibility and comfort  
+- **Energy:** rechargeable battery (future dynamo option)  
+- **Control:** via mobile app or onboard button  
+
+---
+
+## 📐 Modelled Versions
+
+### Morph0 Mini
+
+| Part | Detail |
+|------|--------|
+| Rods | 4 |
+| Cushions | 4 |
+| Use-case | Phone stand, pillow, mini wrist-rest |
+| Complexity | 🔹 Basic (2-D) |
+
+---
+
+### Morph0 Box
+
+| Part | Detail |
+|------|--------|
+| Rods | 12 |
+| Cushions | 6 |
+| Use-case | Cubic shapes (box, small stool) |
+| Complexity | 🔸 Medium (basic 3-D) |
+
+---
+
+### Morph0 Flex+
+
+| Part | Detail |
+|------|--------|
+| Rods | 20 |
+| Cushions | 10 |
+| Use-case | Compact furniture, reconfigurable bag, educational toy |
+| Complexity | 🔶 Advanced |
+
+---
+
+### Morph0 Mesh
+
+| Part | Detail |
+|------|--------|
+| Rods | 40 |
+| Cushions | 20 |
+| Use-case | Smart furniture, moving structures, live art |
+| Complexity | 🟥 Expert (needs real-time computation) |
+
+---
+
+## 🚀 Planned Features
+
+- 📲 Mobile interface with a catalogue of shapes based on configuration  
+- 🧠 Embedded intelligence to auto-adjust if the shape is incorrect  
+- 🔄 Learning mode: user can create and save custom shapes  
+- 📦 Auto-fold into a storage format  
+- 🧘‍♂️ Wellness mode: turns into a breathing / meditation cushion  
+
+---
+
+## 🧠 Value & Target Audience
+
+- **Designers & Makers**  
+- **Nomads & hikers**  
+- **Children & education**  
+- **Elderly or people with reduced mobility**  
+- **Art & performance**
+
+---
+
+## 🧪 Next Steps
+
+1. **Mini prototype** — 4 rods + 4 cushions  
+2. Test achievable shapes:  
+   - Flat  
+   - Angular (stand)  
+   - Loop (handle)  
+3. Visual documentation  
+4. Ergonomic study  
+5. Publish on GitHub under open licence  
+
+---
+
+## 🗃️ Project Naming
+
+- `Morph0` (zero = first version)  
+- Possible evolution:  
+  - `Morph1`, `MorphFlex`, `MorphSphere`, `MorphNest`, etc.
+
+---
