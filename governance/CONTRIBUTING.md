@@ -54,3 +54,61 @@ _Bien sûr, toute idée créative est la bienvenue._
    ```bash
    git checkout -b feat/ma-feature
 
+---
+
+# 🤝 Contribution Guide for Morph0
+
+Thank you for your interest in **Morph0**!  
+We gladly welcome any help: ideas, doc fixes, KiCad schematics, 3-D models,
+prototyping, mobile apps, and more.
+
+---
+
+## 1. Before You Start
+
+1. **Read the README** to understand the concept and the roadmap.  
+2. **Check the existing issues**: claim one or open a new issue if no similar
+   topic exists.  
+3. **Discuss first**: a quick comment or a post in
+   [GitHub Discussions](../../discussions) helps confirm the direction before
+   you spend time coding or modelling.
+
+---
+
+## 2. Contribution Licence
+
+By submitting a _pull request_ you agree that your contribution will be
+distributed:
+
+* under **MIT** for code  
+* under **CC BY-NC-SA 4.0** for documents and media  
+
+You also grant Fabien Buisson the right to include your work in the
+**Commercial Licence** sold to third parties (€ 4 000 / year).  
+You will still be credited: your name / handle will appear in `AUTHORS.md`.
+
+If you are not comfortable with this, **please do not submit** a PR.
+
+---
+
+## 3. Welcome Contribution Areas
+
+| Category | Examples |
+|----------|----------|
+| **Docs** | English / Spanish translation, Draw.io diagrams, typo fixes |
+| **KiCad** | Net-ties, footprints, iBOM, first PCB routing |
+| **3-D (FreeCAD / Blender)** | Cushion mesh, rod holder, Eevee render |
+| **Firmware** | ESP32-C3 code, pump / valve control, BLE GATT profile |
+| **Mobile App** | Figma mock-ups, Flutter prototype, icons |
+| **Testing & Standards** | EN 71-1 tensile spreadsheets, pump endurance script |
+
+_Creative ideas beyond this list are also welcome._
+
+---
+
+## 4. Git Workflow
+
+1. **Fork** the repository and clone your fork.  
+2. Create a feature branch:  
+   ```bash
+   git checkout -b feat/my-feature
