@@ -36,7 +36,7 @@ Si cela ne vous convient pas, merci **de ne pas soumettre** de PR.
 
 | Catégorie | Exemples |
 |-----------|----------|
-| **Docs** | Traductions 🇬🇧/🇪🇸, schémas Draw.io, orthographe |
+| **Docs** | Traductions 🇪🇸, schémas Draw.io, orthographe |
 | **KiCad** | Net-tie, footprints, iBOM, routage v0 |
 | **3D (FreeCAD / Blender)** | Maillage de coussin, support de tige, rendu Eevee |
 | **Firmware** | Code ESP32-C3, gestion pompe/valves, BLE GATT |
