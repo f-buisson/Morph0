@@ -33,7 +33,7 @@ Cas d’usage envisagés : coussin de poche, poignée, support téléphone, joue
 
 <p align="center">
   <img src="docs/img/morph0_concept.png" width="280" alt="Croquis conceptuel">
-  <img src="docs/img/morph0_concept2.png" width="250" alt="Deuxième concept">
+  <img src="docs/img/morph0_concept2.png" width="200" alt="Deuxième concept">
 </p>
 
 ---
