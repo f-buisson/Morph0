@@ -1,4 +1,3 @@
-
 # 🔧 Morph0 – Objet Multi-Forme à Mémoire de Forme
 
 ## 🧠 Concept
@@ -61,8 +60,7 @@ Créer un **objet multifonction ultra-compact**, ergonomique et adaptable :
 
 - **Recyclables ou biosourcés**
 - Modules réparables
-- Version open-source possible pour makers/FABLAB
-
+- 
 ---
 
 ## 🚀 Futurs développements
@@ -78,7 +76,6 @@ Créer un **objet multifonction ultra-compact**, ergonomique et adaptable :
 - 💬 Idée rédigée
 - 📦 A prototyper
 - 🔐 Nom disponible et potentiellement déposable
-- 🌍 Domaine recommandé : morph0.org
 
 ---
 
@@ -86,3 +83,75 @@ Créer un **objet multifonction ultra-compact**, ergonomique et adaptable :
 
 Projet imaginé par **Buisson Fabien**
 (https://scgfamp.org)
+
+---
+
+# 🔧 Morph0 – Multi-Form Object with Shape Memory
+
+## 🧠 Concept
+
+**Morph0** is a physical object that can change shape thanks to a combination of  
+- **flexible / structured metal rods**,  
+- **controllable air chambers**,  
+- and a **programmed mechanism** (manual or electronic).
+
+The system lets Morph0 switch to several predefined shapes:  
+key, cushion, stand, tool, baton, and more.
+
+---
+
+## 💡 Goal
+
+Create an **ultra-compact, multi-function object** that is ergonomic and adaptable:
+
+- For adventurers, technicians, rescuers, or children.  
+- One object, many uses ⇒ less gear to carry and less waste.
+
+---
+
+## ⚙️ How It Works (theoretical prototype)
+
+1. **Internal structure**  
+   - Thin metal rods (flexible or shape-memory)  
+   - Inflatable modules (silicone / TPU) that control flexible zones  
+
+2. **Transformation control**  
+   - Manual (buttons)  
+   - Dynamic (Bluetooth app or simple switch)  
+
+3. **Minimal energy**  
+   - Dynamo, coin cell, or USB recharge  
+   - Or a 100 % mechanical version (no electronics)
+
+---
+
+## 📱 Advanced version (mobile app control)
+
+- Dedicated app via Bluetooth  
+- Depending on the Morph0 version (number of rods and cushions) the app lists available shapes  
+- The user selects a shape, the app sends the command, and Morph0 morphs automatically
+
+---
+
+## 🎯 Use-case Scenarios
+
+| Shape        | Main function                |
+|--------------|------------------------------|
+| Baton        | Self-defence                 |
+| Cushion      | On-the-go comfort            |
+| Phone stand  | Hold a phone or tablet       |
+| Adjustable key | Fits multiple locks       |
+| Mutant toy   | Children’s version           |
+
+---
+
+## ♻️ Ethics & Materials
+
+- **Recyclable or bio-sourced materials**  
+- Repairable modules  
+
+---
+
+## 🚀 Future Developments
+
+- On-board AI for contextual ada
