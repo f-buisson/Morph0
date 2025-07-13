@@ -32,7 +32,7 @@ Il combine :
 Cas d’usage envisagés : coussin de poche, poignée, support téléphone, jouet éducatif, petit mobilier adaptable…
 
 <p align="center">
-  <img src="docs/img/morph0_concept.png" width="250" alt="Croquis conceptuel">
+  <img src="docs/img/morph0_concept.png" width="280" alt="Croquis conceptuel">
   <img src="docs/img/morph0_concept2.png" width="250" alt="Deuxième concept">
 </p>
 
