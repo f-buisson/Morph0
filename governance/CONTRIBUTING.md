@@ -53,5 +53,4 @@ _Bien sûr, toute idée créative est la bienvenue._
 2. Créez une branche :  
    ```bash
    git checkout -b feat/ma-feature
-::contentReference[oaicite:0]{index=0}
 
