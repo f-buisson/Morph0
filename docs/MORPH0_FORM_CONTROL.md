@@ -67,3 +67,75 @@ Déterminer des méthodes techniques pour permettre à Morph0 (objet modulaire �
 - Esquisses techniques de l’organisation interne
 - Plan d’alimentation & microcontrôleur
 
+---
+
+# 🧠 Morph0 – Dynamic Shape Control
+
+## ⚙️ Goal
+Identify technical methods that enable Morph0 (the rod-and-cushion modular
+object) to **change shape on demand** through various mechanisms.
+
+---
+
+## 🔌 Shape Control
+
+### 1. Controlled Rod System
+
+**Biological inspiration: nervous system + skeletal muscles**
+
+- **Metal rods or shape-memory alloy (SMA) rods**  
+  - Curvature or stiffness varies with temperature or electrical pulse  
+  - Each rod is driven individually via a low-voltage circuit  
+
+- **Miniature motors (servo or linear)**  
+  - Mechanically deploy rods to programmed angles  
+  - Pros : controlled force, precision  
+  - Cons : power consumption, bulkier assembly  
+
+---
+
+### 2. Inflatable Cushions – Acting as Soft Muscles
+
+- **Air or fluid inflatable cushions**  
+  - Internal micro-pump or initial reservoir  
+  - Can inflate specific volumes to extend or retract zones  
+
+- **Cyclic or pulsed pumping**  
+  - Accuracy via solenoid valve + sequencer  
+  - Switched by a micro-controller  
+
+---
+
+## 🔁 Pre-programmed Transformation
+
+### Semi-autonomous system
+- Pre-configured combos of rods and cushions  
+- Bluetooth or mobile app triggers **preset morphologies**
+  (e.g. cushion, stand, cross, handle …)
+
+---
+
+## 🔋 Power Supply
+- Slim lithium battery on board  
+- USB-C recharge  
+- Sleep / eco mode  
+
+---
+
+## 🧩 Possible Extensions
+- Mechanical add-ons (wheels, springs, cameras)  
+- Plug-in modules  
+- Compatible with a chassis or robotic base  
+
+---
+
+## 🔒 Safety & Considerations
+- Mechanical lock in case of failure  
+- Soft, controlled materials to avoid breakage or injury  
+
+---
+
+## 🔮 Next Steps
+- Define the minimum number of rods for the Alpha build  
+- Technical sketches of the internal layout  
+- Power & micro-controller plan  
