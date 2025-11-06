@@ -1,3 +1,4 @@
+# Morph0 — Shape-Changing Object (Open Hardware)
 [![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
 
 ---
@@ -68,6 +69,11 @@ Every contribution is merged under the same dual-licence scheme.
 > Goal: explore possibilities, inspire makers and document prior art.  
 > Contributors and partners are invited to test, adapt and confirm—or disprove—
 > these concepts. No guarantee of results, costs or timelines is provided.
+
+---
+
+# Morph0 — Objet à Morphologie Variable (Open Hardware)
+[![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
 
 ---
 
